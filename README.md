@@ -18,7 +18,7 @@ According to different data structure and type of search operations, search algo
 
 In Sequential search, every element present in the list of array or group of data is traversed sequentially, checked, and compared. For example, Linear Search.
 
-<h3>Sequential Search</h3>
+<h3>Interval Search</h3>
 
 In Interval search, algorithms are specifically designed to work on the ordered lists. An ordered list is said to a group of data or a list of an array that is already sorted in either an ascending or descending order. Interval Search algorithms are much more efficient than Sequential Search algorithms as they don’t check every element in an array, rather than divide the length of an array in half, cutting down the search space. For Example, Binary Search.
 
